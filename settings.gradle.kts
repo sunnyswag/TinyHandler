@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "TinyHandler"
 include(":app")
- 
+include(":core:tinyhandler")
